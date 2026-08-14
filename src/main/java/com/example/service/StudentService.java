@@ -7,4 +7,9 @@ public class StudentService {
      public void addStudent() {
         System.out.println("Adding Student...");
     }
+
+     public void deleteStudent() {
+        System.out.println("Deleting Student...");
+    }
+
 }
