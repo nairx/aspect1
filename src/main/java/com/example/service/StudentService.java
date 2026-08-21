@@ -12,4 +12,10 @@ public class StudentService {
         System.out.println("Deleting Student...");
     }
 
+    // @Transactional
+    // public void transferMoney(){
+    //     debitAccount();
+    //     creditAccount();
+    // }
+
 }
